@@ -1,8 +1,10 @@
-# OrcaCyber PHP2Shell: Defender Research Artifacts
+# OrcaCyber PHP2Shell: Defender Research Artifacts 
 
 Analysis of **CVE-2026-109618** and **CVE-2026-109619**. This package provides offline defensive tools and does **not** contain a working exploit, heap-spray request generator, address-layout bypass, or attack chain.
 
 **Research attribution:** The project reports that the PoC was created with OrcaCyber Zero and OrcaCyber Ultra. The uploaded bundle also credits a public third-party exploit; accurately distinguish model-assisted work from original discovery.
+https://www.orcarouter.ai/models/orca/orcacyber-ultra-1.0
+https://www.orcarouter.ai/models/orca/orcacyber-zero-1.5
 
 ## Scripts
 
